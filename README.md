@@ -1,2 +1,2 @@
 # CRUD-SpringBoot-PostgreSQL
- API Rest com Spring Boot e com todas as funções de um CRUD
+ API Rest com Spring Boot com todas as funções de um CRUD
